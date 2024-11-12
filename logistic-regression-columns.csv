@@ -1,0 +1,159 @@
+Feature Names
+Asylum Seeker Status: Asylum Seeker
+Asylum Seeker Status: Unknown
+Child Protection Register Status: Registered
+Looked After Child Status: Looked After
+Youth Offending Status: Offender
+Youth Offending Status: Unknown
+Health Surveillance Checks Status: Not Receiving Checks
+Health Surveillance Checks Status: Unknown
+Immunisation Status: Not Immunised
+Immunisation Status: Unknown
+Dental Check Status: Not Receiving Checks
+Dental Check Status: Unknown
+Substance Misuse: Misusing Substances
+Substance Misuse: Unknown
+Autistic Spectrum Disorder Status: Autistic
+Autistic Spectrum Disorder Status: Unknown
+Disability (None): Has Disability
+Disability (Mobility): Has Disability
+Disability (Sensory): Has Disability
+Disability (Memory): Has Disability
+Parenting Capacity (Substance Misuse): Substance Misuse
+Parenting Capacity (Substance Misuse): Unknown
+Parenting Capacity (Learning Disabilities): Learning Disabilities
+Parenting Capacity (Learning Disabilities): Unknown
+Parenting Capacity (Mental Health): Mental Health Issues
+Parenting Capacity (Mental Health): Unknown
+Parenting Capacity (Physical Health): Physical Health Issues
+Parenting Capacity (Physical Health): Unknown
+Parenting Capacity (Domestic Abuse): Abuse
+Parenting Capacity (Domestic Abuse): Unknown
+Ethnicity: Asian
+"Ethnicity: Black, African, Caribbean or Black British"
+Ethnicity: Mixed Ethnic Groups
+Ethnicity: Information not Obtained
+Ethnicity: Other Ethnic Group
+Ethnicity: Information Refused
+Breastfeed Status (8 weeks): Not Breastfed
+Breastfeed Status (8 weeks): Unknown
+Breastfeed Status (Birth): Not Breastfed
+Breastfeed Status (Birth): Unknown
+Labour Onset: Caesarean Section
+Labour Onset: Surgical Induction (amniotomy)
+Labour Onset: Medical Induction
+Labour Onset: Onset Not Known
+Labour Onset: Unknown
+Maternal Smoking: Gave up during pregnancy
+Maternal Smoking: 0-9 cigarettes per day
+Maternal Smoking: 10-19 cigarettes per day
+Maternal Smoking: 20-29 cigarettes per day
+Maternal Smoking: Non-smoker
+Maternal Smoking: Unknown
+School Exclusion Category: Fixed Term Exclusion
+School Exclusion Category: Permanent Exclusion
+Free School Meal Status: Eligible
+Free School Meal Status: Unknown
+Category of Need: Abuse or Neglect
+Category of Need: Child’s Disability or Illness
+Category of Need: Parental Disability or Illness
+Category of Need: Family in Acute Stress
+Category of Need: Family Dysfunction
+Category of Need: Socially Unacceptable Behaviour
+Category of Need: Low Income
+Category of Need: Absent Parenting
+Category of Need: Adoption Disruption
+Age: Continuous Value
+Gender: Female
+"Diagnosis Code: T1 (Injuries to Unspecified Part of Trunk, Limb, or Body Region; Effects of Foreign Body Entering Through Natural Orifice)"
+Diagnosis Code: S6 (Injuries to the Wrist and Hand)
+"Diagnosis Code: T8 (Complications of Surgical and Medical Care, Not Elsewhere Classified)"
+Diagnosis Code: Q2 (Congenital Malformations of the Circulatory System)
+Diagnosis Code: S8 (Injuries to the Knee and Lower Leg)
+Diagnosis Code: R5 (General Symptoms and Signs)
+Diagnosis Code: P2 (Respiratory and Cardiovascular Disorders Specific to the Perinatal Period)
+"Diagnosis Code: X5 (Overexertion, Travel and Privation; Accidental Exposure to Other and Unspecified Factors)"
+Diagnosis Code: L3 (Dermatitis and Eczema)
+Diagnosis Code: K5 (Noninfective Enteritis and Colitis; Other Diseases of Intestines)
+Diagnosis Code: W0 (Falls)
+Diagnosis Code: P9 (Other Disorders Originating in the Perinatal Period)
+Diagnosis Code: W2 (Exposure to Inanimate Mechanical Forces)
+Diagnosis Code: M2 (Arthropathies)
+Diagnosis Code: R6 (General Symptoms and Signs)
+Diagnosis Code: R2 (Symptoms and Signs Involving the Nervous and Musculoskeletal Systems)
+Diagnosis Code: H6 (Diseases of External Ear; Diseases of Middle Ear and Mastoid)
+"Diagnosis Code: K2 (Diseases of Oesophagus, Stomach, and Duodenum)"
+"Diagnosis Code: B9 (Sequelae of Infectious and Parasitic Diseases; Bacterial, Viral, and other Infectious Agents)"
+Diagnosis Code:N3 (Other Diseases of Urinary System)
+Diagnosis Code: P5 (Haemorrhagic and Haematological Disorders Specific to Fetus and Newborn)
+Diagnosis Code: J0 (Acute Upper Respiratory Infections)
+Diagnosis Code: A0 (Intestinal Infectious Diseases)
+Diagnosis Code: J1 (Influenza and Pneumonia)
+Diagnosis Code: S5 (Injuries to the Elbow and Forearm)
+Diagnosis Code: Z4 (Persons Encountering Health Services for Specific Procedures and Health Care)
+Diagnosis Code: R0 (Symptoms and Signs Involving the Circulatory and Respiratory Systems)
+Diagnosis Code: P7 (Transitory Endocrine and Metabolic Disorders Specific to Fetus and Newborn; Conditions Involving the Integument and Temperature Regulation of Fetus and Newborn)
+Diagnosis Code: B3 (Other Viral Diseases; Mycoses)
+"Diagnosis Code: T4 (Poisoning by Drugs, Medicaments and Biological Substances)"
+Diagnosis Code: P3 (Infections Specific to the Perinatal Period)
+Diagnosis Code: S0 (Injuries to the Head)
+"Diagnosis Code: H5 (Disorders of Ocular Muscles, Binocular Movement, Accommodation and Refraction; Visual Disturbances and Blindness; Other Disorders of Eye and Adnexa)"
+Diagnosis Code: Q6 (Congenital Malformations of the Urinary System; Congenital Malformations and Deformations of the Musculoskeletal System)
+Diagnosis Code: L0 (Infections of the Skin and Subcutaneous Tissue)
+Diagnosis Code: J3 (Other Diseases of Upper Respiratory Tract)
+Diagnosis Code: Z8 (Persons with Potential Health Hazards Related to Family and Personal History and Certain Conditions Influencing Health Status)
+Diagnosis Code: Z9 (Persons with Potential Health Hazards Related to Family and Personal History and Certain Conditions Influencing Health Status)
+Diagnosis Code: Z3 (Persons Encountering Health Services in Circumstances Related to Reproduction)
+Diagnosis Code: Z0 (Persons Encountering Health Services for Examination and Investigation)
+"Diagnosis Code: K0 (Diseases of Oral Cavity, Salivary Glands, and Jaws)"
+Diagnosis Code: Z6 (Persons with Potential Health Hazards Related to Socioeconomic and Psychosocial Circumstances)
+Diagnosis Code: H9 (Other Disorders of Ear)
+"Diagnosis Code: T3 (Burns and Corrosions; Frostbite; Poisoning by Drugs, Medicaments and Biological Substances)"
+"Diagnosis Code: P0 (Fetus and Newborn Affected by Maternal Factors and by Complications of Pregnancy, Labour, and Delivery; Disorders Related to Gestation and Fetal Growth)"
+Diagnosis Code: Q5 (Congenital Malformations of Genital Organs)
+Diagnosis Code: U5 (Provisional Assignment of New Diseases of Uncertain Etiology or Emergency Use)
+Diagnosis Code: E8 (Metabolic Disorders)
+"Diagnosis Code: R4 (Symptoms and Signs Involving Cognition, Perception, Emotional State and Behaviour)"
+Diagnosis Code: J2 (Other Acute Lower Respiratory Infections)
+Diagnosis Code: R1 (Symptoms and Signs Involving the Digestive System and Abdomen)
+Diagnosis Code: G8 (Cerebral Palsy and other Paralytic Syndromes)
+Diagnosis Code: G4 (Episodic and Paroxysmal Disorders)
+Diagnosis Code: N4 (Diseases of Male Genital Organs)
+Diagnosis Code: W1 (Falls)
+Diagnosis Code: Z7 (Persons Encountering Health Services in Other Circumstances )
+Diagnosis Code: J4 (Chronic Lower Respiratory Diseases)
+Diagnosis Code: Z5 (Persons Encountering Health Services for Specific Procedures and Health Care; Persons with Potential Health Hazards Related to Socioeconomic and Psychosocial Circumstances)
+Diagnosis Code: X4 (Accidental Poisoning by and Exposure to Noxious Substances )
+Operation Code: Y9 (Other non-operations; External beam radiotherapy; Support for preparation for radiotherapy; Gallium-67 imaging; Radiopharmaceutical imaging; Gestational age; In vitro fertilisation; Radiology with contrast; Y98 Radiology procedures; Y99 Donor status)
+Operation Code: F1 (Simple extraction of tooth; Preprosthetic oral surgery; Surgery on apex of tooth; Restoration of tooth; Orthodontic operations; Other orthodontic operations; Other operations on tooth; Operations on teeth using dental crown or bridge; Excision of dental lesion of jaw)
+"Operation Code: U2 (Diagnostic echocardiography; Diagnostic imaging procedures; Neuropsychology tests; Nuclear medicine haematological tests, Diagnostic audiology, Breath tests, Diagnostic testing of genitourinary system; Diagnostic application tests on skin; Other diagnostic tests on skin, Diagnostic endocrinology)"
+Operation Code: X5 (External resuscitation; Change of body temperature; Oxygen therapy; Extirpation of unspecified organ; Other operations on unspecified organ; Intubation of trachea; Artificial support for body system; Anaesthetic without surgery)
+Operation Code: W2 (Primary open reduction of fracture of bone and extramedullary fixation; Primary open reduction of intra-articular fracture of bone; Other primary open reduction of fracture of bone; Secondary open reduction of fracture of bone; Closed reduction of fracture of bone and internal fixation; Closed reduction of fracture of bone and external fixation; Other closed reduction of fracture of bone; Fixation of epiphysis; Other internal fixation of bone; Skeletal traction of bone)
+Operation Code: Y5 (Approach through abdominal cavity; Approach to organ through artificial opening into gastrointestinal tract; Approach to organ through other opening; Approach to organ under image control; Harvest of nerve; Harvest of random pattern flap of skin from limb; Harvest of random pattern flap of skin from other site; Harvest of axial pattern flap of skin; Harvest of skin for graft; Harvest of flap of skin and fascia)
+Operation Code: U0 (Diagnostic imaging of whole body; Diagnostic imaging of mouth; Diagnostic imaging of central nervous system; Diagnostic imaging of face and neck; Diagnostic imaging of chest; Diagnostic imaging of abdomen; Diagnostic imaging of pelvis)
+Operation Code: S4 (Other closure of skin; Suture of skin of head or neck; Suture of skin of other site; Removal of repair material from skin; Removal of other inorganic substance from skin; Removal of other substance from skin; Opening of skin; Insertion of skin expander into subcutaneous tissue; Attention to skin expander in subcutaneous tissue)
+Operation Code: Y7 (Early operations NOC; Late operations NOC; Facilitating operations NOC; Minimal access to thoracic cavity; Minimal access to abdominal cavity; Minimal access to other body cavity; Arteriotomy approach to organ under image control; Approach to organ through artery)
+"Operation Code: S5 (Introduction of other inert substance into subcutaneous tissue; Introduction of destructive substance into subcutaneous tissue; Introduction of therapeutic substance into subcutaneous tissue, Introduction of substance into skin; Exploration of burnt skin of head or neck; Exploration of burnt skin of other site; Exploration of other skin of head or neck; Exploration of other skin of other site; Larvae therapy of skin; Leech therapy of skin)"
+Operation Code: Z4 (Other vascular tissue; Upper urinary tract; Lower urinary tract; Male genital organ; Vagina; Uterus; Other female genital tract; Skin of face; Skin of other part of head or neck; Skin of trunk)
+Operation Code: X2 (Correction of congenital deformity of forearm; Correction of congenital deformity of hand; Correction of congenital deformity of hip; Correction of congenital deformity of leg; Primary correction of congenital deformity of foot; Other correction of congenital deformity of foot; Correction of minor congenital deformity of foot; Intermittent infusion of therapeutic substance; Continuous Infusion of therapeutic substance)
+Operation Code: Z9 (Leg region; Other vein of upper body; Other region of body; Other veins of pelvis; Laterality of operation; Other branch of thoracic aorta; Other lateral branch of abdominal aorta; Other terminal branch of aorta; Other veins of lower limb; Intervertebral disc)
+Operation Code: Z8 (Other bone of foot; Joint of shoulder girdle or arm; Joint of wrist or hand; Joint of finger; Joint of pelvis or upper leg; Joint of lower leg or tarsus; Other joint of foot; Other part of musculoskeletal system; Respiratory tract; Arm region)
+Operation Code: X3 (Injection of therapeutic substance; Injection of radiocontrast material; Exchange blood transfusion; Other blood transfusion; Other intravenous transfusion; Other intravenous injection; Blood withdrawal; Intramuscular injection; Subcutaneous injection; Other route of administration of therapeutic substance)
+Operation Code: Y8 (General Anaesthetic; Spinal Anaesthetic; Local Anaesthetic; Other Anaesthetic; Y89 Brachytherapy)
+Operation Code: F3 (Other repair of palate; Other operations on palate; Excision of tonsil; Other operations on tonsil; Extirpation of lesion of other part of mouth; Reconstruction of other part of mouth)
+Operation Code: E2 (Operations on adenoid; Repair of pharynx; Other open operations on pharynx; Therapeutic endoscopic operations on pharynx; Diagnostic endoscopic examination of pharynx; Other operations on pharynx; Operations on cricopharyngeus muscle; Excision of larynx)
+Operation Code: G4 (Incision of pylorus; Other operations on pylorus; Other fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract; Fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract; Other therapeutic fibreoptic endoscopic operations on upper gastrointestinal tract; Diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract; Therapeutic fibreoptic endoscopic operations on upper gastrointestinal tract; Intubation of stomach; Other operations on stomach; Excision of duodenum.)
+Operation Code: A5 (Other operations on meninges of spinal cord; Therapeutic epidural injection; Drainage of spinal canal; Therapeutic spinal puncture; Diagnostic spinal puncture; Operations on spinal nerve root; Excision of peripheral nerve)
+Operation Code: Z7 (Radius; Ulna; Other bone of arm or wrist; Other bone of hand; Rib cage; Bone of pelvis; Femur; Tibia; Bone of tarsus)
+Operation Code: Z5 (Skin of other site; Nail; Chest wall; Abdominal wall; Muscle of shoulder or upper arm; Muscle of forearm; Muscle of hand; Muscle of hip or thigh; Muscle of lower leg; Muscle of foot)
+Operation Code: D1 (Exenteration of mastoid air cells; Other operations on mastoid; Attachment of bone anchored hearing prosthesis; Repair of eardrum; Drainage of middle ear; Reconstruction of ossicular chain; Other operations on ossicle of ear; Extirpation of lesion of middle ear)
+Birth Weight: Continuous Value
+Apgar 1-Minute Score: Continuous Value
+Apgar 5-Minute Score: Continuous Value
+Gestation Age: Continuous Value
+Welsh Index of Multiple Deprivation: Continuous Value
+Birth Weight: Unknown
+Apgar 1-Minute Score: Unknown
+Apgar 5-Minute Score: Unknown
+Gestation Age: Unknown
+Welsh Index of Multiple Deprivation: Unknown
