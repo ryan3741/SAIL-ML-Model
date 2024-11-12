@@ -2,7 +2,7 @@
 
 This repository contains the final, trained logistic regression model used for prediction of mental health problems in children in social care in the UK.
 
-File name:  
+File names:  
 
 logistic-regression.pkl: Scikit-Learn Logistic Regression Model for Mental Health Prediction  
 logistic-regression-columns.csv: CSV file containing the names of all of the variables used in the final logistic regression model
